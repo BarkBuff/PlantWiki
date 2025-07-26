@@ -1,0 +1,9 @@
+llama-index
+langchain
+ollama
+faiss-cpu
+python-dotenv
+streamlit
+sqlalchemy
+tqdm
+requests
