@@ -106,8 +106,8 @@ python main.py
 | Feature                           | Status       |
 |-----------------------------------|--------------|
 | SQL Q\&A                          | Done         |
-| RAG-powered SOP Q\&A              | In Progress  |
-| Auto router for query types       | In Progress  |
+| RAG-powered SOP Q\&A              | Done         |
+| Auto router for query types       | Done         |
 | UI (Bolt / Loveable integration)  | Coming Soon  |
 | API server (FastAPI)              | Coming Soon  |
 | Fine-tuned LLM (plant-specific)   | PlantWiki v2 |
