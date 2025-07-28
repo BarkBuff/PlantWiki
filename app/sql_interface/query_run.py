@@ -5,9 +5,17 @@ from app.sql_interface.sql_templates import SYSTEM_PROMPT
 DB_PATH = "data/plant.db"
 
 def generate_sql(user_query: str) -> str:
+    from app.llm_agent.llm import ask_mistral
+    from app.sql_interface.sql_templates import SYSTEM_PROMPT
+
     prompt = f"{SYSTEM_PROMPT}\n\nQ: {user_query}\nA:"
-    sql = ask_mistral(prompt)
-    return sql.strip()
+    sql = ask_mistral(prompt).strip()
+
+    if not sql.lower().startswith("select"):
+        raise ValueError("⚠️ Generated SQL does not start with SELECT.")
+
+    return sql
+
 
 def run_sql(sql: str) -> str:
     try:
