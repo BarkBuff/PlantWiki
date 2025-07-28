@@ -1,0 +1,12 @@
+Machine B - Overload Recovery SOP
+
+If overload alarm triggers:
+
+1. Stop the machine using the RED button.
+2. Open access panel and verify jammed material.
+3. Manually rotate pulley 3 times to reset.
+4. Press RESET and START.
+
+Note:
+- Always wear gloves
+- Do not restart without checking lubrication

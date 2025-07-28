@@ -7,3 +7,4 @@ streamlit
 sqlalchemy
 tqdm
 requests
+sentence-transformers

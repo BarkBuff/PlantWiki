@@ -1,0 +1,12 @@
+SOP: Line 3 Shutdown Procedure
+
+1. Notify supervisor before initiating shutdown.
+2. Stop feeder belt using STOP BUTTON.
+3. Shut valves V-21 and V-22.
+4. Hold EMERGENCY STOP if there’s abnormal noise.
+5. Log shutdown time in logbook.
+
+Post-Shutdown Checklist:
+- Debris cleared
+- Lockout/Tagout applied
+- Inspection report filed

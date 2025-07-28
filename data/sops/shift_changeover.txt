@@ -1,0 +1,9 @@
+Shift Changeover SOP
+
+1. Outgoing operator completes log sheet.
+2. Verbal handover to incoming operator.
+3. Discuss ongoing issues, machine status.
+4. Sign off on shift register.
+5. Incoming operator performs pre-shift checks.
+
+Failure to comply results in process violations.

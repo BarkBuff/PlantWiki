@@ -1,0 +1,11 @@
+Standard Operating Procedure: Dryer Unit Restart
+
+1. Ensure the dryer is powered off.
+2. Wait 3 minutes for internal cooling.
+3. Press and hold RESET for 5 seconds.
+4. Power ON the main switch.
+5. Confirm green status light before operation.
+
+Common Issues:
+- Red light blinking: Check thermal overload.
+- No startup: Ensure power breaker is ON.
