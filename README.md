@@ -1,4 +1,4 @@
-# PlantWiki v1 – Industrial NLP Chatbot for Manufacturing Insights
+# Vektor v1 – Industrial NLP Chatbot for Manufacturing Insights
 
 - “How many Class A defects this week?”  
 - “How do I reset the dryer?”  
@@ -8,7 +8,7 @@ Ask like a human. Get real answers from structured **SQL data** or unstructured 
 
 ---
 
-## What Is PlantWiki?
+## What Is Vektor?
 
 A dual-brain NLP chatbot for industrial plants:
 
